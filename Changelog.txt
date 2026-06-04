@@ -4,6 +4,14 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
+
+== Change Log v20.6 ==
+  * Improve Interface
+  * Improve Windows Version Status
+  * Add WinRAR Status
+  * Bug Fixes
+  * Build #1 CRC32 > cf702b7c
+
 == Change Log v20.5 ==
   * Improve Interface
   * Improve MusicPlay
