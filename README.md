@@ -19,8 +19,10 @@ Due to the frequency of patch updates, the source files of idm are not provided 
 
 ## useful
 
-[check update address new](https://idm.0dy.ir/)
-with UA `Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko`
+The new way to fetch new version:
+```
+curl -A "Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko" "https://idm.0dy.ir/"
+```
 
 ~~[check update address](https://idm.ckk.ir/)~~
 
