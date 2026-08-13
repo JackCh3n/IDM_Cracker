@@ -28,4 +28,4 @@ with UA `Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko`
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YuHuanTin/IDM_Cracker&type=Date)](https://star-history.com/#YuHuanTin/IDM_Cracker&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YuHuanTin/IDM_Cracker&type=Date)](https://star-history.dera.page/#YuHuanTin/IDM_Cracker&Date)
